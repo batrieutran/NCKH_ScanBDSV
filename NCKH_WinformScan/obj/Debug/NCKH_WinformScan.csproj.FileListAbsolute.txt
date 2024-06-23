@@ -1,0 +1,13 @@
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.csproj.AssemblyReference.cache
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.frmDisplayScan.resources
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.frmLogin.resources
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.Properties.Resources.resources
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.csproj.GenerateResource.cache
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.csproj.CoreCompileInputs.cache
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\bin\Debug\NCKH_WinformScan.exe.config
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\bin\Debug\NCKH_WinformScan.exe
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\bin\Debug\NCKH_WinformScan.pdb
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.exe
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.pdb
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.frmCources.resources
+D:\LTUD\NCKH_WinformScan\NCKH_WinformScan\obj\Debug\NCKH_WinformScan.frmTransformPoin.resources
